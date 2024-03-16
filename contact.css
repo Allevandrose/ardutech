@@ -11,7 +11,7 @@
 }
 .card-section{
     width:300px;
-    box-shadow: 0 6px 4px rgb(#FF6,0.2);
+    box-shadow: 0 6px 4px rgba(0,0,0,0.2);
     /* margin-left: 50px; */
     text-align: center;
     height: 30vh;
@@ -42,7 +42,7 @@ form {
 
     main {
         width: 35rem;
-        box-shadow: 2px 3px 5px rgb(#FF6 0.2);
+        box-shadow: 2px 3px 5px rgba(0, 0, 0,     0.2);
         margin: 0 auto;
         height: 25rem;
         border-radius:5%;

@@ -4,6 +4,9 @@
 }
 body{
     background-color: azure;
+    background-image: url(aboutbgphoto.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .paragraphone {
     margin: 20px;
